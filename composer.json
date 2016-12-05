@@ -1,5 +1,5 @@
 {
-    "name": "rongcloud/php-sdk",
+    "name": "rongcloud-contrib/php-sdk",
     "description": "Rong Cloud Server SDK in PHP.",
     "keywords": ["rongcloud", "rong cloud", "rlcoud", "sdk"],
     "homepage": "http://rong.io",
